@@ -1,0 +1,9 @@
+As an experienced professional in the software industry, you are currently employed at a company that has developed its own software solution, integrating various third-party software components. Recently, your team encountered a significant challenge with one of your third-party software providers. The provider notified you that they would cease support for your current implementation and required you to upgrade your codebase to align with their new implementation standards.
+
+This unexpected development prompted your team to reflect on your processes and consider preventive measures to mitigate similar challenges in the future. While this issue primarily concerns the third-party software provider, it raises questions about your approach to software integration and dependency management.
+
+What initial steps could your team have taken to anticipate potential changes or discontinuation of support from third-party software providers?
+
+Answer:
+This event should encourage the team to consider writing a risk management plan that is alligned with the ISO's (International Organization for Standardization) Third-Party Management Requirements and ensure black and white documents to protect both parties from suffering damages on such events.
+
