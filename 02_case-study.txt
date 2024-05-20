@@ -1,0 +1,13 @@
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, has not yet begun. 
+
+As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+I think that the project was meticulously planned with how things would be accomplished along with its estimated duedates. However, the project planning may have lacked with the estimation of capacity of its development team based on the term "ambitious" . Knowing the capacity is very significant as it gives the data to compare with the project planning estimation on how practical and attainable it is. Because no matter how good nor meticulous a planning is, if you don't consider the capacity to do those tasks...it will end in naught and result to constant delays of task deliveries. 
+
+Also since the problem is already existing, maybe the agile methodology can be applied. From my analysis of the situation, it seems that all tasks under developement are still running and is the reason why the project cannot advance to the testing phase. With agile methodology, the team can just deliver the completed features first to the testing phase while the pending development backlogs still occur. Then when the development backlog is done along with the testing backlogs, it can advance to the testing phase and become new testing backlogs while accomplishing the next development backlog. This iteration will repeat until the all features of the software solution is delivered.
+
+And every iteration process, the team should always reflect if their approach is effective or not then discuss on the things they need to keep or adjust. 
+
+If the problem lies on technicality, outsourcing may be a good temporary solution. 
